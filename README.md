@@ -7,7 +7,7 @@
 
 - 💬 Ask me about **Python,Mathematics**
 
-- 📫 How to reach me **email: subhanshu3070@gmail.com** **Instagram: deeptensor** **LinkedIn: www.linkedin.com/in/subhanshu-verma-1a2474365**
+- 📫 How to reach me **email: subhanshu3070@gmail.com** | **Instagram: deeptensor** | **LinkedIn: www.linkedin.com/in/subhanshu-verma-1a2474365**
 
 - ⚡ Fun fact **My digital alias is - DeepTensor**
 
