@@ -2,11 +2,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=deeptensor-3070&label=Profile%20views&color=0e75b6&style=flat" alt="deeptensor-3070" /> </p>
 
-- 🌱 I’m currently learning **NumPy,Pandas,Matplotlib,Seaborn,Web Scrapping,ML,DL,Flask**
+- 🌱 I’m currently learning **NumPy,Pandas,Matplotlib,Seaborn,Web Scrapping,ML,DL,Flask,Scikit-Learn,Tensorflow,Keras,Gen AI,RAG,LLMs,Agentic AI,Computer Vision**
 
 - 👨‍💻 All of my projects are available at [https://github.com/DeepTensor-3070](https://github.com/DeepTensor-3070)
 
-- 💬 Ask me about **Python,Mathematics,Python Libraries**
+- 💬 Ask me about **Python,Mathematics,Python Libraries,Machine Learning,Deep Learning,DSA**
 
 - 📫 How to reach me **email: subhanshu3070@gmail.com | Instagram: https://www.instagram.com/deeptensor/profilecard/?igsh=NTdlazVwYmxycjB1 | LinkedIn: www.linkedin.com/in/subhanshu-verma-1a2474365 | Telegram: http://t.me/deep_tensor |**
 
