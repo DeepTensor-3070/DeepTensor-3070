@@ -8,7 +8,7 @@
 
 - 💬 Ask me about **Python,Mathematics,Python Libraries,Machine Learning,Deep Learning,DSA**
 
-- 📫 How to reach me **email: subhanshu3070@gmail.com | Instagram: https://www.instagram.com/deeptensor/profilecard/?igsh=NTdlazVwYmxycjB1 | LinkedIn: www.linkedin.com/in/subhanshu-verma-1a2474365 | Telegram: http://t.me/deep_tensor |**
+- 📫 How to reach me **email: subhanshu3070@gmail.com | Instagram: @_subh_verma_ | LinkedIn: www.linkedin.com/in/subhanshu-verma-1a2474365 | Telegram: http://t.me/deep_tensor |**
 
 - 📄 Resume [https://drive.google.com/file/d/14IOzsP6vD8tY6CBjXJO9ICsCWvunQ9er/view?usp=sharing](https://drive.google.com/file/d/14IOzsP6vD8tY6CBjXJO9ICsCWvunQ9er/view?usp=sharing)
 
