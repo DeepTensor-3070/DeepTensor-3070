@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:0a1f0a,100:00ff88&height=230&section=header&text=Subhanshu%20Verma&fontSize=62&fontColor=00ff88&fontAlignY=38&desc=AI%20%26%20Data%20Science%20%7C%20Computer%20Vision%20%7C%20Deep%20Learning&descAlignY=58&descSize=16&descColor=39ff14&animation=twinkling" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=00ff88&height=230&section=header&text=Subhanshu%20Verma&fontSize=62&fontColor=0d1117&fontAlignY=38&desc=LLMs%20%7C%20RAG%20%7C%20Agentic%20AI&descAlignY=58&descSize=16&descColor=0d1117&animation=twinkling" width="100%"/>
 
 <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=21&pause=1100&color=00FF88&center=true&vCenter=true&width=700&lines=Building%20Intelligent%20Systems;Computer%20Vision%20%7C%20OpenCV;LLMs%20%7C%20RAG%20%7C%20Agentic%20AI;FastAPI%20%7C%20Streamlit%20%7C%20ML;Always%20Learning" />
