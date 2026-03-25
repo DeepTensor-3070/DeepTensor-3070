@@ -1,16 +1,20 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:0a1f0a,100:00ff88&height=230&section=header&text=Subhanshu%20Verma&fontSize=62&fontColor=00ff88&fontAlignY=38&desc=>//%20AI%20%26%20Data%20Science%20%7C%20Computer%20Vision%20%7C%20Deep%20Learning&descAlignY=58&descSize=16&descColor=39ff14&animation=twinkling" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:0a1f0a,100:00ff88&height=230&section=header&text=Subhanshu%20Verma&fontSize=62&fontColor=00ff88&fontAlignY=38&desc=AI%20%26%20Data%20Science%20%7C%20Computer%20Vision%20%7C%20Deep%20Learning&descAlignY=58&descSize=16&descColor=39ff14&animation=twinkling" width="100%"/>
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=21&pause=1100&color=00FF88&center=true&vCenter=true&width=700&lines=AI+%26+Deep+Learning+Engineer+%F0%9F%A7%A0;Computer+Vision+%7C+OpenCV+%7C+Python;Building+Intelligent+Systems+from+Scratch;Exploring+LLMs+%7C+RAG+%7C+Agentic+AI;Ubuntu+%7C+RTX+3070+%7C+Always+Learning+%F0%9F%9A%80" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=21&pause=1100&color=00FF88&center=true&vCenter=true&width=700&lines=Building%20Intelligent%20Systems;Computer%20Vision%20%7C%20OpenCV;LLMs%20%7C%20RAG%20%7C%20Agentic%20AI;FastAPI%20%7C%20Streamlit%20%7C%20ML;Always%20Learning" />
 </a>
 
 <br/><br/>
 
-<img src="https://komarev.com/ghpvc/?username=deeptensor-3070&label=PROFILE+VIEWS&color=00ff88&labelColor=0d1117&style=for-the-badge" alt="Profile Views"/>
-&nbsp;
-[![GitHub followers](https://img.shields.io/github/followers/DeepTensor-3070?label=FOLLOWERS&style=for-the-badge&color=00ff88&labelColor=0d1117&logo=github&logoColor=00ff88)](https://github.com/DeepTensor-3070)
+<img src="https://komarev.com/ghpvc/?username=deeptensor-3070&label=PROFILE+VIEWS&color=00ff88&labelColor=0d1117&style=for-the-badge"/>
+
+<br/><br/>
+
+<a href="https://github.com/DeepTensor-3070">
+  <img src="https://img.shields.io/github/followers/DeepTensor-3070?label=FOLLOWERS&style=for-the-badge&color=00ff88&labelColor=0d1117&logo=github&logoColor=00ff88"/>
+</a>
 
 </div>
 
