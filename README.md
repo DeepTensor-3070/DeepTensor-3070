@@ -124,7 +124,8 @@
 | # | PROJECT | DESCRIPTION | STACK |
 |:-:|:--------|:------------|:------|
 | 01 | 🚦 [**Next-Gen Traffic Management**](https://github.com/DeepTensor-3070/Next-Gen-Traffic-Management) | AI-powered adaptive traffic signal control using real-time vehicle detection | `Python` `OpenCV` `CV2` |
-| 02 | 🧠 *More projects incoming... Like Swasthya+ , BuiltSense AI* | Deep Learning · Agentic AI · LLMs · RAG pipelines | `TensorFlow` `Flask` `LangChain` |
+| 02 | 🧠 [**BuiltSense-AI**](https://github.com/DeepTensor-3070/BuildSense.git) | An AI-powered system that leverages data analysis and machine learning to generate actionable insights for smart building and infrastructure management. | `Python` `FastAPI` `ML` `Hugging Face` |
+| 02 |  *More projects incoming... Like Swasthya+ , Nexus* | Deep Learning · Agentic AI · LLMs · RAG pipelines | `TensorFlow` `FastAPI` `LangChain` |
 
 > *"Every project is a step closer to building something that matters."*
 
@@ -156,7 +157,7 @@ for mode, task in stack.items():
   [ACTIVE] BUILDING        → Computer Vision & OpenCV pipelines
   [ACTIVE] DIVING_INTO     → ['LLMs', 'RAG', 'Agentic AI', 'Gen AI']
   [ACTIVE] SCRAPING        → Web Scraping with Selenium & BeautifulSoup
-  [ACTIVE] DEPLOYING       → ML models via Flask APIs
+  [ACTIVE] DEPLOYING       → ML models via FastAPI & Flask APIs
   [ACTIVE] OPEN_TO         → Internships · Collabs · Research · Open Source ✅
 ```
 
