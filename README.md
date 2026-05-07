@@ -123,9 +123,9 @@
 
 | # | PROJECT | DESCRIPTION | STACK |
 |:-:|:--------|:------------|:------|
-| 01 | 🚦 [**Next-Gen Traffic Management**](https://github.com/DeepTensor-3070/Next-Gen-Traffic-Management) | AI-powered adaptive traffic signal control using real-time vehicle detection | `Python` `OpenCV` `CV2` |
+| 01 | 🚦 [**Swasthya_Plus**](https://github.com/DeepTensor-3070/Swasthya_Plus.git) | multi-agent AI-powered health intelligence platform designed to analyze medical reports, maintain long-term health memory, generate preventive insights, and provide explainable recommendations. | `Python` `LangChain` `PSQL` `Docker` |
 | 02 | 🧠 [**BuiltSense-AI**](https://github.com/DeepTensor-3070/BuildSense.git) | An AI-powered system that leverages data analysis and machine learning to generate actionable insights for smart building and infrastructure management. | `Python` `FastAPI` `ML` `Hugging Face` |
-| 02 |  *More projects incoming... Like Swasthya+ , Nexus* | Deep Learning · Agentic AI · LLMs · RAG pipelines | `TensorFlow` `FastAPI` `LangChain` |
+| 02 |  *More projects incoming... Like Nexus* | Deep Learning · Agentic AI · LLMs · RAG pipelines | `TensorFlow` `FastAPI` `LangChain` |
 
 > *"Every project is a step closer to building something that matters."*
 
