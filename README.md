@@ -2,9 +2,14 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=00ff88&height=230&section=header&text=Subhanshu%20Verma&fontSize=62&fontColor=0d1117&fontAlignY=38&desc=LLMs%20%7C%20RAG%20%7C%20Agentic%20AI&descAlignY=58&descSize=16&descColor=0d1117&animation=twinkling" width="100%"/>
 
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=21&pause=1100&color=00FF88&center=true&vCenter=true&width=700&lines=Building%20Intelligent%20Systems;Computer%20Vision%20%7C%20OpenCV;LLMs%20%7C%20RAG%20%7C%20Agentic%20AI;FastAPI%20%7C%20Streamlit%20%7C%20ML;Always%20Learning" />
-</a>
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img
+      src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=21&pause=1100&color=00FF88&center=true&vCenter=true&width=700&lines=Building%20Intelligent%20Systems;ML%20System%20Design%20%7C%20MLOps;NLP%20%7C%20RAG%20%7C%20Agentic%20AI;FastAPI%20%7C%20Streamlit%20%7C%20ML;Always%20Learning"
+      alt="Typing SVG"
+    />
+  </a>
+</p>
 
 <br/><br/>
 
@@ -123,9 +128,9 @@
 
 | # | PROJECT | DESCRIPTION | STACK |
 |:-:|:--------|:------------|:------|
-| 01 | 🚦 [**Swasthya_Plus**](https://github.com/DeepTensor-3070/Swasthya_Plus.git) | multi-agent AI-powered health intelligence platform designed to analyze medical reports, maintain long-term health memory, generate preventive insights, and provide explainable recommendations. | `Python` `LangChain` `PSQL` `Docker` |
+| 01 | 🚦 [**Swasthya_Plus**](https://github.com/DeepTensor-3070/Swasthya_Plus.git) | Multi-agent healthcare intelligence platform with memory, report analysis, and preventive AI insights. | `Python` `LangGraph` `PSQL` `Docker` |
 | 02 | 🧠 [**BuiltSense-AI**](https://github.com/DeepTensor-3070/BuildSense.git) | An AI-powered system that leverages data analysis and machine learning to generate actionable insights for smart building and infrastructure management. | `Python` `FastAPI` `ML` `Hugging Face` |
-| 02 |  *More projects incoming... Like Nexus* | Deep Learning · Agentic AI · LLMs · RAG pipelines | `TensorFlow` `FastAPI` `LangChain` |
+| 03 |  *More projects incoming... Like Nexus* | Deep Learning · Agentic AI · LLMs · RAG pipelines | `TensorFlow` `FastAPI` `LangChain` |
 
 > *"Every project is a step closer to building something that matters."*
 
