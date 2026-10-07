@@ -24,7 +24,7 @@
 
 <div align="center">
 
-<img src="assets/connect.svg?v=1" alt="Subhanshu pointing to LinkedIn and GitHub" width="100%">
+<img src="connect.svg?v=1" alt="Subhanshu pointing to LinkedIn and GitHub" width="100%">
 
 [**LinkedIn**](https://www.linkedin.com/in/subhanshuv-ml) &nbsp;|&nbsp; [**GitHub**](https://github.com/DeepTensor-3070)
 
