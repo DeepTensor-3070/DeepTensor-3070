@@ -2,36 +2,30 @@
 
 > I turn complex AI ideas into practical, intelligent solutions that create real-world impact.
 
-![Hero](hero.svg?v=1)
+<div align="center">
 
-![About & Life](about-life.svg?v=1)
+<img src="hero.svg?v=1" alt="Subhanshu Verma, AI Engineer based in Ghaziabad" width="100%">
 
-![Stack](stack.svg?v=1)
+<img src="about-life.svg?v=1" alt="What I build, and what I do outside the code: reading, traveling, exploring" width="100%">
 
-![ID Dashboard](id-dashboard.svg?v=1)
+<img src="stack.svg?v=1" alt="Tech stack: Python, C/C++, SQL, PyTorch, LangChain, LangGraph, FastAPI, Docker, AWS and more" width="100%">
 
-![Connect](connect.svg?v=1)
+<img src="id-dashboard.svg?v=1" alt="ID card for Subhanshu Verma with repo data checked on 6 Oct 2026" width="100%">
+
+</div>
 
 ## Projects
 
-| Project | Description | Repository |
+| Project | What it does | Built with |
 |---|---|---|
-| **BuildSense AI** | GenAI-powered construction intelligence platform integrating 4 ML models + 2 fine-tuned LLMs (Flan-T5, GPT-2) for cost, timeline & risk prediction. Runner-up, AI ARENA 2026. | [GitHub](https://github.com/DeepTensor-3070/BuildSense.git) |
-| **DeepResearcher** | 4-agent research pipeline that searches the web, scrapes the most relevant source, writes a structured report, and critiques its own output, with a Streamlit UI. | [GitHub](https://github.com/DeepTensor-3070/DeepResearcher.git) |
-| **Scalable-RAG** | Production-grade RAG system using LangGraph, Portkey LLM Gateway and Gemini Embeddings, with semantic re-ranking, history-aware planning and NeMo Guardrails. | [GitHub](https://github.com/DeepTensor-3070/Scalable-RAG.git) |
+| [BuildSense AI](https://github.com/DeepTensor-3070/BuildSense) | GenAI-powered construction intelligence platform integrating 4 ML models + 2 fine-tuned LLMs (Flan-T5, GPT-2) for cost, timeline & risk prediction. Runner-up, AI ARENA 2026. | Flan-T5, GPT-2 |
+| [DeepResearcher](https://github.com/DeepTensor-3070/DeepResearcher) | A 4-agent research pipeline that searches the web, scrapes the most relevant source, writes a structured report, and critiques its own output, with a Streamlit UI on top. | Streamlit |
+| [Scalable-RAG](https://github.com/DeepTensor-3070/Scalable-RAG) | A production-grade, enterprise-level RAG system. It tells technical "True Data" from random "Noisy Data" using semantic re-ranking, history-aware planning, and NeMo Guardrails for input/output safety. | LangGraph, Portkey, Gemini Embeddings, NeMo Guardrails |
 
-## Connect
+<div align="center">
 
-- [GitHub — DeepTensor-3070](https://github.com/DeepTensor-3070)
-- [LinkedIn — Subhanshu Verma](https://www.linkedin.com/in/subhanshuv-ml)
+<img src="assets/connect.svg?v=1" alt="Subhanshu pointing to LinkedIn and GitHub" width="100%">
 
-## Notes
+[**LinkedIn**](https://www.linkedin.com/in/subhanshuv-ml) &nbsp;|&nbsp; [**GitHub**](https://github.com/DeepTensor-3070)
 
-- No contribution-city section is included.
-- Unknown GitHub stars, forks, follower counts and other unverified counts are intentionally omitted.
-- The five SVGs are self-contained: portraits and fonts are embedded; no external asset URLs are required.
-- SVG links are decorative only; clickable social links are provided below the connect image because GitHub does not make SVG image links clickable in README rendering.
-
-## Upload
-
-Upload the `assets/` directory and this `README.md` to the repository root. Keep the embedded-font files and `LICENSES.md` if you want the source/licensing package retained alongside the SVGs.
+</div> the SVGs.
