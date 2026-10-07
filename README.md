@@ -28,4 +28,4 @@
 
 [**LinkedIn**](https://www.linkedin.com/in/subhanshuv-ml) &nbsp;|&nbsp; [**GitHub**](https://github.com/DeepTensor-3070)
 
-</div> the SVGs.
+</div>
